@@ -8,4 +8,4 @@ command:
 - commit
 - push
 - pull
-- 
+-status 
